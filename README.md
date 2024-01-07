@@ -33,3 +33,13 @@ Real-time Sentiment Monitoring:
 Implement a real-time monitoring system to track and analyze customer sentiments as new reviews are generated.
 Documentation and Tutorials:
 
+# Contributing
+
+We welcome contributions from the community to enhance and expand the capabilities of this sentiment analysis project. Whether you are interested in adding new features, improving existing code, or fixing bugs, please check our contribution guidelines.
+
+# License
+
+This project is licensed under the MIT License, allowing for flexibility in its use and modification.
+
+Feel free to reach out with any questions or feedback. Happy analyzing! 🍽️📊
+
